@@ -1,0 +1,5 @@
+# scratch + generated
+_tmp/
+_work/
+__pycache__/
+*.pyc

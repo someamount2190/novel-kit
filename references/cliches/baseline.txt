@@ -1,0 +1,72 @@
+# Banned/overused phrases — prose_scan auto-loads every *.txt in references/cliches/.
+# One phrase per line, lowercase. Comments start with #. Grow this list as a cold
+# read catches fresh clichés (record verified additions only).
+# These supplement the curated list embedded in prose_scan.CLICHES.
+
+a chill ran through
+a wave of relief
+a wave of nausea
+all of a sudden
+at the end of the day
+avoid like the plague
+back against the wall
+barely above a whisper
+beat a hasty retreat
+better late than never
+bigger fish to fry
+bitter end
+blissfully unaware
+breathed a sigh of relief
+brought to its knees
+cat got your tongue
+caught off guard
+cold sweat
+crystal clear
+dead in his tracks
+dead in her tracks
+dripping with sarcasm
+every fibre of her being
+every fiber of his being
+face fell
+flesh and blood
+gave a curt nod
+gritted her teeth
+gritted his teeth
+heart of gold
+heaved a sigh
+in the blink of an eye
+last but not least
+laughter died on her lips
+let out a shaky breath
+made her blood boil
+mind raced
+nick of time
+not a cloud in the sky
+out of the corner of her eye
+out of the corner of his eye
+palpable tension
+piercing blue eyes
+piercing gaze
+quiet before the storm
+raised an eyebrow
+rooted to the spot
+sea of faces
+sent a chill
+shot her a look
+shot him a look
+sigh of relief
+stopped dead
+sweat trickled
+the air was thick with
+the hairs on the back of her neck
+the hairs on the back of his neck
+time seemed to stand still
+took her breath away
+took his breath away
+trembling hands
+voice barely above a whisper
+weight of the world
+went weak at the knees
+white-knuckled grip
+with bated breath
+without missing a beat
